@@ -1,4 +1,4 @@
-{
+echo json_decode({
     "status_code": 200,
     "status": "success",
     "response": [
@@ -104,3 +104,4 @@
         }
     ]
 }
+)
