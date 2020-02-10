@@ -1,4 +1,4 @@
-echo json_encode({
+echo {
     "status_code": 200,
     "status": "success",
     "response": [
@@ -103,4 +103,4 @@ echo json_encode({
             "__v": 0
         }
     ]
-})
+}
